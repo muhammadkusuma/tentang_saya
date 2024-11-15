@@ -1,16 +1,21 @@
-# tentang_saya
+# Tentang Saya 🌟
 
-A new Flutter project.
+Aplikasi web responsif sederhana yang menampilkan informasi tentang diri sendiri, dibuat menggunakan Flutter.
 
-## Getting Started
+## Fitur ✨
 
-This project is a starting point for a Flutter application.
+- **Responsif**: Desain yang menyesuaikan untuk perangkat desktop, tablet, dan ponsel.
+- **Halaman Statis**: Informasi seperti nama, deskripsi, email, dan nomor telepon.
+- **Gambar Profil**: Ditampilkan secara dinamis dari file aset.
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi yang Digunakan 🛠️
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Framework utama untuk membangun aplikasi.
+- **Responsive Builder**: Paket Flutter untuk menangani desain responsif.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan 🚀
+
+1. **Clone Repository**:
+   ```bash
+   git clone https://github.com/username/nama-repo.git
+   cd nama-repo
