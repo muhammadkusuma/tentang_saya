@@ -100,6 +100,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 - **Email**: email@example.com
 - **Telepon**: +62 812 3456 7890
-```
-
-Sesuaikan informasi seperti `username`, `nama-repo`, gambar profil, atau kontak sesuai kebutuhan. Anda dapat langsung menyalin isi ini ke file `README.md` di proyek Anda!
